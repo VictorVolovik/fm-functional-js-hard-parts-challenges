@@ -1,0 +1,18 @@
+{
+  "name": "fm-functional-js-hard-parts-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js",
+    "start:hof": "npx nodemon hof.js",
+    "start:closure": "npx nodemon closure.js",
+    "start:ext": "npx nodemon ext.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
