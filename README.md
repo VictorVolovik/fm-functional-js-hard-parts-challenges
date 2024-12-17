@@ -1,4 +1,4 @@
-Solutions to the challenges in [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/) course by [Frontend Master](https://frontendmasters.com).
+Solutions to the challenges in [The Hard Parts of Functional JavaScript](https://frontendmasters.com/courses/functional-js-fundamentals/) course by [Frontend Masters](https://frontendmasters.com).
 
 [Higher-Order Functions](./hof.md) - `npm run start:hof`
 
